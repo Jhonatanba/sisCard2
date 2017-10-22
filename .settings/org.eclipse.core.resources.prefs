@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/controller/CartaoController.java=UTF-8
+encoding//src/controller/VendasController.java=UTF-8
+encoding//src/dao/CartaoDao.java=UTF-8
+encoding//src/dao/ParcelasDao.java=UTF-8
+encoding//src/dao/VendaDao.java=UTF-8
+encoding//src/report/relatorioUsuario.jrxml=UTF-8
+encoding//src/utils/TablePesquisa.java=UTF-8
+encoding//src/view/CadastroCartao.java=UTF-8
+encoding//src/view/CadastroVenda.java=UTF-8
+encoding//src/view/PesquisaVenda.java=UTF-8
+encoding//src/view/TelaPrincipal.java=UTF-8

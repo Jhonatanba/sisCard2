@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: sisCard.Login
+Class-Path: sisCard/src/META-INF/lib/jaybird-full-2.1.6.jar  sisCard/src/META-INF/lib/jasperreports-6.3.0.jar
+sisCard/src/META-INF/lib/jasperreports-fonts-6.3.0.jar
